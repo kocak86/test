@@ -9,6 +9,5 @@
             "email": "kocaro@seznam.cz"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev"
 }
