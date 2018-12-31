@@ -1,0 +1,14 @@
+{
+    "name": "kocak/test",
+    "description": "Testovaci projekt",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Kocaro",
+            "email": "kocaro@seznam.cz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
